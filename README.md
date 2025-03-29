@@ -36,3 +36,7 @@ To run the analysis, clone this repository and open the `titanic.ipynb` notebook
 3. **Survival Rate by Class**: Explore survival rates across different passenger classes.
 4. **Survival Rate by Age**: Visualize survival rates based on age distribution.
 5. **Fare vs Survival Rate**: Investigate how fare paid impacted survival chances.
+
+## 🚀 Live Version
+You can also view this notebook on Kaggle:  
+[👉 Kaggle Notebook Link](https://www.kaggle.com/code/sanemcoskun/titanic-data-analysis)
