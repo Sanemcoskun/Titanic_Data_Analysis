@@ -39,4 +39,4 @@ To run the analysis, clone this repository and open the `titanic.ipynb` notebook
 
 ## 🚀 Live Version
 You can also view this notebook on Kaggle:  
-[👉 Kaggle Notebook Link](https://www.kaggle.com/code/sanemcoskun/titanic-data-analysis)
+[👉 Kaggle Notebook Link](https://www.kaggle.com/code/sanemcoskun/exploratory-data-analysis-on-superstore-dataset)
